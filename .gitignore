@@ -1,0 +1,16 @@
+._*
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+node_modules/
+dist/
+build/
+coverage/
+.env
+*.env
+*.bak
+*.backup
+*.swp
+*.swo
